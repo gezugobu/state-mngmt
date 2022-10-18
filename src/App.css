@@ -23,6 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.navbar{
+   min-height: 10vh; 
+   display:flex; flex-flow: row wrap;
+  background-color: #282c34;
+  color: white;
+  justify-content: space-around;
+  margin-bottom: 15px;
+} 
 
 .App-link {
   color: #61dafb;
